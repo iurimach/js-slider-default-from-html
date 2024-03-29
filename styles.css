@@ -24,7 +24,7 @@ body {
   .box {
 
     width: 800px;
-    height: 600px;
+    height: 500px;
     flex-shrink: 0;
     display: flex;
     justify-content: center;
@@ -39,9 +39,7 @@ body {
     
   }
  /* თუ რამოდნიმე 3,5 იტემის გამოცენა და ტრილი გინდა ეს წაუშლე  box1 მთლიანდ */
-  .box1{
-    opacity: 0.8;
-}
+  
   .red { background-color: red; }
   .yellow { background-color: yellow; }
   .green { background-color: green; }
